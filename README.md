@@ -7,9 +7,7 @@
     * numpy
     * matplotlib
     * scikit-learn
-    * tensorflow or pytorch (if using neural networks)
-    * pandas
-    * etc. (List all libraries used)
+    * pytorch 
 
 ##   Setup
 
