@@ -14,8 +14,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/ShreyaPandey1106/SU_P2
     ```
 
 2.  **Download the dataset:**
@@ -43,7 +42,7 @@
 
     * Extract MFCCs from the audio files.
     * Generate and save MFCC spectrograms in the `reports/mfcc_spectrograms/` directory.
-    * (Optional) Perform statistical analysis and save the results (e.g., to a CSV file).
+    * Perform statistical analysis and save the results (e.g., to a CSV file).
 
 ###   Task B: Language Classification
 
